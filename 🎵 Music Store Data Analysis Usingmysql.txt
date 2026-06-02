@@ -1,0 +1,172 @@
+# 🎵 Music Store Data Analysis Using PostgreSQL
+
+## 📖 Project Overview
+
+This project focuses on analyzing a Music Store database using PostgreSQL to answer business-related questions and generate meaningful insights from customer purchases, music genres, artists, and sales data.
+
+The project demonstrates SQL skills ranging from basic queries to advanced analytical queries involving joins, subqueries, aggregations, and Common Table Expressions (CTEs).
+
+---
+
+## 🎯 Project Objectives
+
+* Analyze customer purchasing behavior.
+* Identify top customers and revenue-generating countries.
+* Discover the most popular music genres.
+* Find top-performing artists.
+* Generate business insights using SQL.
+
+---
+
+## 🛠️ Tools & Technologies
+
+* PostgreSQL
+* SQL
+* pgAdmin
+* GitHub
+
+---
+
+## 🗄️ Database Tables
+
+The database consists of the following tables:
+
+* Employee
+* Customer
+* Invoice
+* Invoice_Line
+* Track
+* Album
+* Artist
+* Genre
+* Playlist
+* Playlist_Track
+
+---
+
+## 📊 Business Questions Solved
+
+### Easy Level
+
+1. Who is the senior most employee based on job title?
+2. Which countries have the most invoices?
+3. What are the top 3 invoice totals?
+4. Which city generates the highest revenue?
+5. Who is the best customer?
+
+### Moderate Level
+
+1. Find all Rock music listeners.
+2. Identify the top 10 Rock artists.
+3. Find songs longer than the average song length.
+
+### Advanced Level
+
+1. Calculate the amount spent by each customer on artists.
+2. Determine the most popular music genre for each country.
+3. Find the highest-spending customer in each country.
+
+---
+
+## 🔑 SQL Concepts Used
+
+* SELECT
+* WHERE
+* ORDER BY
+* GROUP BY
+* HAVING
+* INNER JOIN
+* Multiple Table Joins
+* Aggregate Functions
+
+  * SUM()
+  * COUNT()
+  * AVG()
+  * MAX()
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+
+---
+
+## 📈 Key Insights
+
+* Identified the highest revenue-generating countries.
+* Found the most valuable customers.
+* Determined the most popular music genres by country.
+* Analyzed artist performance and customer preferences.
+* Generated business insights from transactional sales data.
+
+---
+
+## 📂 Project Structure
+
+Music-Store-SQL-Analysis/
+
+├── README.md
+
+├── Music_Store_Analysis.sql
+
+├── Database_Schema.png
+
+├── Screenshots/
+
+│ ├── Q1.png
+
+│ ├── Q2.png
+
+│ ├── Q3.png
+
+│ ├── Q4.png
+
+│ └── Q5.png
+
+└── Presentation.pdf
+
+---
+
+## 🚀 How to Run This Project
+
+1. Install PostgreSQL and pgAdmin.
+2. Import the Music Store Database.
+3. Open pgAdmin and connect to the database.
+4. Run the SQL queries from the SQL script file.
+5. Analyze the results and business insights.
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+* PostgreSQL Database Management
+* Writing Complex SQL Queries
+* Data Analysis and Business Insights
+* Joins and Table Relationships
+* CTEs and Subqueries
+* Data Aggregation and Reporting
+
+---
+
+## 💼 Resume Highlights
+
+* Analyzed a Music Store relational database using PostgreSQL.
+* Solved business problems using SQL joins, aggregations, subqueries, and CTEs.
+* Identified top customers, popular genres, top artists, and revenue trends.
+* Generated actionable business insights from transactional data.
+
+---
+
+## 👩‍💻 Author
+
+**Payal Gimonkar**
+
+Aspiring Data Analyst | SQL | Python | Power BI | Data Science
+
+LinkedIn: www.linkedin.com/in/payal-gimonkar-5a4ab6287
+
+GitHub: https://github.com/payalgimonkar6
+
+---
+
+⭐ If you found this project useful, please give it a star.
